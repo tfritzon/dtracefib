@@ -1,6 +1,5 @@
 #include <stdlib.h>
 #include <sys/time.h>
-#include <stdio.h>
 #include "fibonacci.h"
 
 /*
